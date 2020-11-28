@@ -60,7 +60,6 @@ class Fibonacci(MathsGame):
                 self.play_game()
      
             if(self.__choice == 2 ):
-                # TODO display how many fibonacci were displayed correctly
                 print(self.correct_guesses)
                 print("exiting...")
                 start.display_menu()
