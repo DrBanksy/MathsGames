@@ -6,8 +6,7 @@ from numpy import random
 #date: 28/11/2020
 
 # TODO
-# look at static methods
-# implement try...except
+
 
 class MathsGame(ABC):
     '''
